@@ -10,7 +10,8 @@
 * **Formación Académica:**
     * *Grado Superior* en Desarrollo de Aplicaciones Multiplataforma (**DAM**)
     * *Grado Medio* en Sistemas Microinformáticos y Redes (**SMR**)
-
+> [!NOTE]
+> Actualmente cursando el primer año de DAM
  ---
  
  ### 🛠️ Habilidades
@@ -26,7 +27,11 @@
 
 ![LenguajesUsados](https://github-readme-stats.vercel.app/api/top-langs/?username=emeehachee&layout=compact)
 
+ ---
+
 ## 💬 Frase Motivadora
 > *Ser malo en algo es el primer paso para ser medianamente bueno en algo*
+
+---
 
 🌐 **Mi perfil profesional:** [MiLinkedIn](https://www.linkedin.com/in/oscar-martin-hernandez-0525ba207/)
