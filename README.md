@@ -37,6 +37,13 @@
 
  ---
 
+## 🚀 Algunos de mis trabajos
+
+* [**Novela: Elige tu propia aventura**](https://github.com/emeehachee/Proyecto_NovelaProgramacion)
+* [**Pagina Web Comida a domicilio**](https://github.com/emeehachee/Proyecto_LLMM)
+
+---
+
 ## 💬 Frase Motivadora
 > *Ser malo en algo es el primer paso para ser medianamente bueno en algo*
 
