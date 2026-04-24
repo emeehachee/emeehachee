@@ -41,6 +41,9 @@
 
 * [**Novela: Elige tu propia aventura**](https://github.com/emeehachee/Proyecto_NovelaProgramacion)
 * [**Pagina Web Comida a domicilio**](https://github.com/emeehachee/Proyecto_LLMM)
+* [**Maquina de Vending**](https://github.com/emeehachee/ProyectoProg_MaquinaVending)
+> [!NOTE]
+> Actualmente realizando el proyecto *Maquina de Vending*
 
 ---
 
