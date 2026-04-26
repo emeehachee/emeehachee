@@ -14,26 +14,26 @@
 > Actualmente cursando el primer año de DAM
  ---
  
- ### 🛠️ Habilidades
+ ### 🔨 Habilidades
 | Categoria | ⚡️Habilidades⚡️|
 | :---------: | :-----------: |
 | **Backend** | Java, SQL |
 | **Frontend** | HTML, CSS, JavaScript |
 | **Sistemas** | Git,GitHub,Redes |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![VBox](https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-gold?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-teal?style=for-the-badge&logo=mysql&logoColor=white)
+![VBox](https://img.shields.io/badge/VirtualBox-green?style=for-the-badge&logo=virtualbox)
 
  ---
 
- ### 📊 Mis Estadísticas de GitHub
+ ### 🧑‍💻📈 Mis Estadísticas de GitHub
 
-![LenguajesUsados](https://github-readme-stats.vercel.app/api/top-langs/?username=emeehachee&layout=compact)
+![LenguajesUsados](https://github-readme-stats.vercel.app/api/top-langs/?username=emeehachee&layout=compact&theme=tokyonight)
 
  ---
 
@@ -52,8 +52,12 @@
 
 ---
 
-🌐 **Mi perfil profesional:** [MiLinkedIn](https://www.linkedin.com/in/oscar-martin-hernandez-0525ba207/)  
+### 🌐 Contacto y Redes
+| LinkedIn |  Email |
+| :---: | :---: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-martin-hernandez-0525ba207/) | [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osquimh456@gmail.com) |
 
-📫 **Contacto:** [Email](mailto:osquimh456@gmail.com)
 
-*Muchas gracias por leer mi Readme!!* 🎉
+*Muchas gracias por leer mi Readme!!* 🎉  
+
+![Visitas](https://komarev.com/ghpvc/?username=emeehachee&color=blueviolet&style=flat-squar)
