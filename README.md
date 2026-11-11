@@ -41,12 +41,10 @@
 
  ---
 
-## 🚀 Algunos de mis trabajos
+## 🚀 Mis trabajos
 
-* [**Novela: Elige tu propia aventura**](https://github.com/emeehachee/Proyecto_NovelaProgramacion)
-* [**Pagina Web Comida a domicilio**](https://github.com/emeehachee/Proyecto_LLMM)
-* [**Maquina de Vending**](https://github.com/emeehachee/ProyectoProg_MaquinaVending)
-* [**Proyecto Multihilo**](https://github.com/emeehachee/Proyecto-Multihilo_1.0)
+* [**Mis Repositorios**](https://github.com/emeehachee?tab=repositories)
+
 > [!NOTE]
 > Actualmente realizando el TFG
 
