@@ -1,4 +1,4 @@
-## !Hola! Soy **Oscar Martin Hernandez** 💸
+## ¡Hola! Soy **Oscar Martin Hernandez** 💸
 
 ![gift](https://i.gifer.com/DW2Y.gif)
 
@@ -46,7 +46,7 @@
 * [**Novela: Elige tu propia aventura**](https://github.com/emeehachee/Proyecto_NovelaProgramacion)
 * [**Pagina Web Comida a domicilio**](https://github.com/emeehachee/Proyecto_LLMM)
 * [**Maquina de Vending**](https://github.com/emeehachee/ProyectoProg_MaquinaVending)
-* [**Proyecto Multihilo](https://github.com/emeehachee/Proyecto-Multihilo_1.0/settings)
+* [**Proyecto Multihilo**](https://github.com/emeehachee/Proyecto-Multihilo_1.0)
 > [!NOTE]
 > Actualmente realizando el TFG
 
@@ -65,4 +65,4 @@
 
 *Muchas gracias por leer mi Readme!!* 🎉  
 
-![Visitas](https://komarev.com/ghpvc/?username=emeehachee&color=blueviolet&style=flat-squar)
+![Visitas](https://komarev.com/ghpvc/?username=emeehachee&color=blueviolet&style=flat-square)
